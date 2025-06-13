@@ -3,7 +3,7 @@
 <h3 align="center">SOFTWARE DEVELOPER</h3>
 </h1>
 
-
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/madhan-mohan-karanam-a9076a226/" target="_blank">
@@ -20,7 +20,7 @@
   </a>
 </div>
 
-
+###
 
 ###
 <div align="center">
@@ -101,6 +101,7 @@
 </div>
 
 ###
+
 ###
 
 <div align="center">
@@ -114,4 +115,85 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MadhanMohanKaranam/MadhanMohanKaranam/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+###
+<h2> Projects WorkedOn</h2>
+<!-- Projects Section with Colored Titles -->
+<div style="padding: 20px; font-family: sans-serif;">
+
+  <!-- Syllabus Chatbot -->
+  <div style="margin-bottom: 20px;">
+    <h3 style="color: #f59e0b; font-size: 20px; font-weight: bold;">
+      <a href="https://github.com/MadhanMohanKaranam/madhan-_Syllabus_chatbot/tree/main/syllabus-chatbot-2.0" target="_blank" style="text-decoration: none; color: #f59e0b;">
+        Syllabus Chatbot for Automated Course Query Resolution
+      </a>
+    </h3>
+    <p><em>Python, NLP, LLM, Machine Learning, NoSQL</em> </p>
+    <ul>
+      <li>AI-powered chatbot using NLP & LLMs.</li>
+      <li>NoSQL used for scalable query handling.</li>
+      <li>Performance optimized with fine-tuning.</li>
+    </ul>
+  </div>
+
+  <!-- Dice Roll Game -->
+  <div style="margin-bottom: 20px;">
+    <h3 style="color: #3b82f6; font-size: 20px; font-weight: bold;">
+      <a href="https://github.com/MadhanMohanKaranam/madhan_dice_roll_game" target="_blank" style="text-decoration: none; color: #3b82f6;">
+        Dice Roll Game
+      </a>
+    </h3>
+    <p><em>Flutter, Bootstrap, Firebase, JavaScript</em></p>
+    <ul>
+      <li>Developed cross-platform betting game with Firebase backend.</li>
+      <li>Secure user auth & ‘cheat key’ feature for gameplay.</li>
+      <li>Responsive UI with Bootstrap & Flutter.</li>
+    </ul>
+  </div>
+
+  <!-- Inventory App -->
+  <div style="margin-bottom: 20px;">
+    <h3 style="color: #10b981; font-size: 20px; font-weight: bold;">
+      <a href="https://github.com/MadhanMohanKaranam/InventoryApp_MadhanMohanKaranam" target="_blank" style="text-decoration: none; color: #10b981;">
+        Inventory App
+      </a>
+    </h3>
+    <p><em>React, JavaScript, Firebase</em> </p>
+    <ul>
+      <li>Web-based inventory manager with Firebase backend.</li>
+      <li>Modular React components and real-time updates.</li>
+      <li>Deployed via Firebase Hosting.</li>
+    </ul>
+  </div>
+
+  <!-- Image Deblurring -->
+  <div style="margin-bottom: 20px;">
+    <h3 style="color: #ef4444; font-size: 20px; font-weight: bold;">
+      Image Deblurring and Super Resolution Using Deep Convolution Neural Network
+    </h3>
+    <p><em>Python, Deep Learning, CNN</em> </p>
+    <ul>
+      <li>Implemented CNN for image restoration.</li>
+      <li>Multiple levels of deblurring outputs.</li>
+      <li>Improved image clarity using deep learning.</li>
+    </ul>
+  </div>
+
+  <!-- Advanced Intelligent Tour Guide -->
+  <div style="margin-bottom: 20px;">
+    <h3 style="color: #8b5cf6; font-size: 20px; font-weight: bold;">
+      Advanced Intelligent Tour Guide
+    </h3>
+    <p><em>Android, Java, MySQL</em></p>
+    <ul>
+      <li>Android app using AWS backend for real-time info.</li>
+      <li>Location-aware guide for tourists.</li>
+      <li>Cloud integration for data and service details.</li>
+    </ul>
+  </div>
+
+</div>
+
+
+
 ###
